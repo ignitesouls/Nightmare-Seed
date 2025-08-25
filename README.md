@@ -2,7 +2,7 @@
 
 ## Introductions
 Hear y- AHEM!
-Hear ye, hear ye, good citizens of IGNITE!
+Hear ye, hear ye, good citizens of IGNITE! (https://discord.gg/ignitesouls)
 
 Sorry, I was so choked up from this momentous occasion, I had to compose myself for this insane announcement. An announcement of all announcements. Surely, it will drive you to strip to your skivvies and embrace the three fingered hug, as you will give in to frenzy long before you find victory, or solace for that matter.
 
@@ -61,10 +61,12 @@ These are those who have Streamed and Completed. We know there are others who ha
 | Ginomachino    | 240    | 34:35:23 |
 | Bender         | 841    | 71:20:13 |
 | NPT            | 888    | 41:42:21 |
+| Skumnut        | 889    | 52:46:35 |
 | Elymis         | 908    | 38:00:00 |
 | Strump         | 937    | 30:50:46 |
 | GingerGaming08 | 999    | 36:55:10 |
 | RomainJacques  | 1054   | 49:00:00 |
 | RattyRy        | 1132   | 45:00:00 |
 | HooZher        | 1253   | 45:45:16 |
+| Saidor         | 1279   | 53:49:06 |
 | Rony           | 1834   | 85:00:00 |

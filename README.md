@@ -64,6 +64,7 @@ These are those who have Streamed and Completed. We know there are others who ha
 | Skumnut        | 889    | 52:46:35 |
 | Elymis         | 908    | 38:00:00 |
 | Strump         | 937    | 30:50:46 |
+| Rawlight       | 937    | 49:15:34 |
 | GingerGaming08 | 999    | 36:55:10 |
 | RomainJacques  | 1054   | 49:00:00 |
 | RattyRy        | 1132   | 45:00:00 |

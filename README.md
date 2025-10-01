@@ -35,8 +35,15 @@ mods = [
     { enabled = true, name = "randomizer", path = "Nightmare v1" },
 ]
 ```
+# The Nightmare Seed: Director's Cut
+The Director's Cut is intended to be the final Goodbye Love Letter to The Nightmare Seed. This version we attempted to get rid of all the unintended bugs and change things throughout the seed that we intended on the first go around. 
 
-## Problematic Items
+We do have something Completely new designed by Psiphicode that we hope the community will be able to figure out. 
+
+**The Nightmare Seed: Director's Cut** is more challenging, but when has that ever stopped you?
+
+
+## Problematic Items for v1.7
 I will attempt to solves these one day but there are some problematic items that spawn from some players and not others. So if you don't have these items make sure to spawn them in.
 
 **Current List of Items that you should get:**
@@ -65,6 +72,7 @@ These are those who have Streamed and Completed. We know there are others who ha
 | Elymis         | 908    | 38:00:00 |
 | Strump         | 937    | 30:50:46 |
 | Rawlight       | 937    | 49:15:34 |
+| AzaZ           | 966    | 47:29:15 |
 | GingerGaming08 | 999    | 36:55:10 |
 | RomainJacques  | 1054   | 49:00:00 |
 | RattyRy        | 1132   | 45:00:00 |

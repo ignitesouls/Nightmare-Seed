@@ -63,20 +63,21 @@ I will attempt to solves these one day but there are some problematic items that
 These are those who have Streamed and Completed. We know there are others who have completed the Nightmare but just to be consistent we only go off of those we can confirm.
 
 
-| Player         | Deaths | ~Time    |
-| -------------- | ------ | -------- |
-| Ginomachino    | 240    | 34:35:23 |
-| Bender         | 841    | 71:20:13 |
-| NPT            | 888    | 41:42:21 |
-| Skumnut        | 889    | 52:46:35 |
-| Elymis         | 908    | 38:00:00 |
-| Strump         | 937    | 30:50:46 |
-| Rawlight       | 937    | 49:15:34 |
-| AzaZ           | 966    | 47:29:15 |
-| GingerGaming08 | 999    | 36:55:10 |
-| RomainJacques  | 1054   | 49:00:00 |
-| RattyRy        | 1132   | 45:00:00 |
-| HooZher        | 1253   | 45:45:16 |
-| Saidor         | 1279   | 53:49:06 |
-| Lorian         | 1702   | 59:48:07 |
-| Rony           | 1834   | 85:00:00 |
+| Player         | Deaths | ~Time     |
+| -------------- | ------ | --------- |
+| Ginomachino    | 240    | 34:35:23  |
+| Bender         | 841    | 71:20:13  |
+| NPT            | 888    | 41:42:21  |
+| Skumnut        | 889    | 52:46:35  |
+| Elymis         | 908    | 38:00:00  |
+| Strump         | 937    | 30:50:46  |
+| Rawlight       | 937    | 49:15:34  |
+| AzaZ           | 966    | 47:29:15  |
+| GingerGaming08 | 999    | 36:55:10  |
+| RomainJacques  | 1054   | 49:00:00  |
+| RattyRy        | 1132   | 45:00:00  |
+| HooZher        | 1253   | 45:45:16  |
+| Saidor         | 1279   | 53:49:06  |
+| Lorian         | 1702   | 59:48:07  |
+| Rony           | 1834   | 85:00:00  |
+| Walferdia      | 2624   | 104:40:00 | 

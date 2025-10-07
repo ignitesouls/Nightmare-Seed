@@ -76,6 +76,7 @@ These are those who have Streamed and Completed. We know there are others who ha
 | GingerGaming08 | 999    | 36:55:10  |
 | RomainJacques  | 1054   | 49:00:00  |
 | RattyRy        | 1132   | 45:00:00  |
+| Youwy          | 1137   | 49:00:00  |
 | HooZher        | 1253   | 45:45:16  |
 | Saidor         | 1279   | 53:49:06  |
 | Lorian         | 1702   | 59:48:07  |

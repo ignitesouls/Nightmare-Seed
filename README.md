@@ -61,7 +61,7 @@ I will attempt to solves these one day but there are some problematic items that
 
 ## Completions
 These are those who have Streamed and Completed. We know there are others who have completed the Nightmare but just to be consistent we only go off of those we can confirm.
-
+* = Director's Cut Finish
 
 | Player         | Deaths | ~Time     |
 | -------------- | ------ | --------- |
@@ -75,6 +75,7 @@ These are those who have Streamed and Completed. We know there are others who ha
 | AzaZ           | 966    | 47:29:15  |
 | GingerGaming08 | 999    | 36:55:10  |
 | RomainJacques  | 1054   | 49:00:00  |
+| SurgeSouls*    | 1082   | 77:07:32  |
 | RattyRy        | 1132   | 45:00:00  |
 | Youwy          | 1137   | 49:00:00  |
 | HooZher        | 1253   | 45:45:16  |

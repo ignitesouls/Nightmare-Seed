@@ -61,7 +61,8 @@ I will attempt to solves these one day but there are some problematic items that
 
 ## Completions
 These are those who have Streamed and Completed. We know there are others who have completed the Nightmare but just to be consistent we only go off of those we can confirm.
-* = Director's Cut Finish
+
+'*' = Director's Cut Finish
 
 | Player         | Deaths | ~Time     |
 | -------------- | ------ | --------- |

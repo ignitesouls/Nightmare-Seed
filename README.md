@@ -67,6 +67,7 @@ These are those who have Streamed and Completed. We know there are others who ha
 | Player         | Deaths | ~Time     |
 | -------------- | ------ | --------- |
 | Ginomachino    | 240    | 34:35:23  |
+| Mannarage      | 839    | 50:24:41  |
 | Bender         | 841    | 71:20:13  |
 | NPT            | 888    | 41:42:21  |
 | Skumnut        | 889    | 52:46:35  |

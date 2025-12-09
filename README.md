@@ -82,6 +82,7 @@ These are those who have Streamed and Completed. We know there are others who ha
 | Youwy          | 1137   | 49:00:00  |
 | HooZher        | 1253   | 45:45:16  |
 | Saidor         | 1279   | 53:49:06  |
+| Riirex         | 1448   | 60:51:15  |
 | Lorian         | 1702   | 59:48:07  |
 | Rony           | 1834   | 85:00:00  |
 | Walferdia      | 2624   | 104:40:00 | 

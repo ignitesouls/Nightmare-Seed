@@ -75,6 +75,7 @@ These are those who have Streamed and Completed. We know there are others who ha
 | Strump         | 937    | 30:50:46  |
 | Rawlight       | 937    | 49:15:34  |
 | AzaZ           | 966    | 47:29:15  |
+| Zifirax        | 974    | 57:53:51  |
 | GingerGaming08 | 999    | 36:55:10  |
 | RomainJacques  | 1054   | 49:00:00  |
 | SurgeSouls*    | 1082   | 77:07:32  |
@@ -82,7 +83,14 @@ These are those who have Streamed and Completed. We know there are others who ha
 | Youwy          | 1137   | 49:00:00  |
 | HooZher        | 1253   | 45:45:16  |
 | Saidor         | 1279   | 53:49:06  |
+| Merl1n         | 1306   | 41:39:06  |
 | Riirex         | 1448   | 60:51:15  |
 | Lorian         | 1702   | 59:48:07  |
 | Rony           | 1834   | 85:00:00  |
 | Walferdia      | 2624   | 104:40:00 | 
+
+## Seamless COOP Completions
+| Players            | Deaths      | ~Time     |
+| ------------------ | ----------- | --------- |
+| BluVery & MsSteak* | 1031 + 1167 | 56:12:15  |
+

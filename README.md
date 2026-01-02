@@ -90,7 +90,8 @@ These are those who have Streamed and Completed. We know there are others who ha
 | Walferdia      | 2624   | 104:40:00 | 
 
 ## Seamless COOP Completions
-| Players            | Deaths      | ~Time     |
-| ------------------ | ----------- | --------- |
-| BluVery & MsSteak* | 1031 + 1167 | 56:12:15  |
+| Players                 | Deaths      | ~Time     |
+| ----------------------- | ----------- | --------- |
+| BluVery & MsSteak*      | 1031 + 1167 | 56:12:15  |
+| beagleplays & itsbackx* | 785 + 752   | 64:15:36  |
 

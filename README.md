@@ -66,6 +66,7 @@ These are those who have Streamed and Completed. We know there are others who ha
 
 | Player         | Deaths | ~Time     |
 | -------------- | ------ | --------- |
+| a.khapper      | 237    | 31:47:42  |
 | Ginomachino    | 240    | 34:35:23  |
 | itsbackx       | 775    | 47:51:00  |
 | Mannarage      | 839    | 50:24:41  |

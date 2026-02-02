@@ -1,4 +1,6 @@
 # Nightmare-Seed
+Design by Nexus (https://www.twitch.tv/nexusupnext)
+and Shura (https://www.twitch.tv/itsshura)
 
 ## Introductions
 Hear y- AHEM!

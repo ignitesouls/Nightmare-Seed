@@ -60,6 +60,18 @@ I will attempt to solves these one day but there are some problematic items that
 
 - Made a Safety Check of Shards As the "**Ailment Talisman**" Replacement at the **Abandoned Ailing Village**. Don't Grab it unless you weren't able to get all 16 shards
 
+# Credits and Mods used
+The Fifth Matt's Item and Enemy Randomizer: https://www.nexusmods.com/eldenring/mods/428
+
+Unalloyed Malenia: https://www.nexusmods.com/eldenring/mods/4253
+
+Rellana Overhaul: https://www.nexusmods.com/eldenring/mods/7113
+
+Godfrey Overhaul: https://www.nexusmods.com/eldenring/mods/7198
+
+Psiphicode for event scripting
+
+Loeless Shade & Saytari for Run Testing
 
 ## Completions
 These are those who have Streamed and Completed. We know there are others who have completed the Nightmare but just to be consistent we only go off of those we can confirm.

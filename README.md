@@ -92,6 +92,7 @@ These are those who have Streamed and Completed. We know there are others who ha
 | Elymis         | 908    | 38:00:00  |
 | Strump         | 937    | 30:50:46  |
 | Rawlight       | 937    | 49:15:34  |
+| LilAggy        | 941    | 50:26:32  |
 | AzaZ           | 966    | 47:29:15  |
 | Zifirax        | 974    | 57:53:51  |
 | GingerGaming08 | 999    | 36:55:10  |

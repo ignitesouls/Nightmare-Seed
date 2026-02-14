@@ -83,7 +83,7 @@ These are those who have Streamed and Completed. We know there are others who ha
 | ----------------- | ------ | --------- |
 | a.khapper^        | 237    | 31:47:42  |
 | Ginomachino       | 240    | 34:35:23  |
-| PingouinDuTurfu*^ | 587
+| PingouinDuTurfu*^ | 587    | 45:57:05  |
 | itsbackx          | 775    | 47:51:00  |
 | Cell*             | 824    | 49:49:00  |
 | Mannarage         | 839    | 50:24:41  |

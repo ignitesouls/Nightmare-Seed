@@ -79,41 +79,43 @@ These are those who have Streamed and Completed. We know there are others who ha
 '*' = Director's Cut Finish
 '^' = Non-Blind
 
-| Player         | Deaths | ~Time     |
-| -------------- | ------ | --------- |
-| a.khapper^     | 237    | 31:47:42  |
-| Ginomachino    | 240    | 34:35:23  |
-| itsbackx       | 775    | 47:51:00  |
-| Cell*          | 824    | 49:49:00  |
-| Mannarage      | 839    | 50:24:41  |
-| Bender         | 841    | 71:20:13  |
-| NPT            | 888    | 41:42:21  |
-| Skumnut        | 889    | 52:46:35  |
-| Elymis         | 908    | 38:00:00  |
-| Strump         | 937    | 30:50:46  |
-| Rawlight       | 937    | 49:15:34  |
-| LilAggy*       | 941    | 50:26:32  |
-| AzaZ           | 966    | 47:29:15  |
-| Zifirax        | 974    | 57:53:51  |
-| GingerGaming08 | 999    | 36:55:10  |
-| RomainJacques  | 1054   | 49:00:00  |
-| SurgeSouls*    | 1082   | 77:07:32  |
-| beagleplays    | 1117   | 60:43:00  |
-| RattyRy        | 1132   | 45:00:00  |
-| Youwy          | 1137   | 49:00:00  |
-| b4ronyx        | 1190   | 48:54:00  |
-| HooZher        | 1253   | 45:45:16  |
-| Saidor         | 1279   | 53:49:06  |
-| Merl1n         | 1306   | 41:39:06  |
-| Riirex         | 1448   | 60:51:15  |
-| Lorian         | 1702   | 59:48:07  |
-| Rony           | 1834   | 85:00:00  |
-| TheFrigidWolf  | 2301   | 105:00:00 |
-| Walferdia      | 2624   | 104:40:00 | 
+| Player            | Deaths | ~Time     |
+| ----------------- | ------ | --------- |
+| a.khapper^        | 237    | 31:47:42  |
+| Ginomachino       | 240    | 34:35:23  |
+| PingouinDuTurfu*^ | 587
+| itsbackx          | 775    | 47:51:00  |
+| Cell*             | 824    | 49:49:00  |
+| Mannarage         | 839    | 50:24:41  |
+| Bender            | 841    | 71:20:13  |
+| NPT               | 888    | 41:42:21  |
+| Skumnut           | 889    | 52:46:35  |
+| Elymis            | 908    | 38:00:00  |
+| Strump            | 937    | 30:50:46  |
+| Rawlight          | 937    | 49:15:34  |
+| LilAggy*          | 941    | 50:26:32  |
+| AzaZ              | 966    | 47:29:15  |
+| Zifirax           | 974    | 57:53:51  |
+| GingerGaming08    | 999    | 36:55:10  |
+| RomainJacques     | 1054   | 49:00:00  |
+| SurgeSouls*       | 1082   | 77:07:32  |
+| beagleplays       | 1117   | 60:43:00  |
+| RattyRy           | 1132   | 45:00:00  |
+| Youwy             | 1137   | 49:00:00  |
+| b4ronyx           | 1190   | 48:54:00  |
+| HooZher           | 1253   | 45:45:16  |
+| Saidor            | 1279   | 53:49:06  |
+| Merl1n            | 1306   | 41:39:06  |
+| Riirex            | 1448   | 60:51:15  |
+| Lorian            | 1702   | 59:48:07  |
+| Rony              | 1834   | 85:00:00  |
+| TheFrigidWolf     | 2301   | 105:00:00 |
+| Walferdia         | 2624   | 104:40:00 | 
 
 ## Seamless COOP Completions
 | Players                 | Deaths      | ~Time     |
 | ----------------------- | ----------- | --------- |
 | BluVery & MsSteak*      | 1031 + 1167 | 56:12:15  |
 | beagleplays & itsbackx* | 785 + 752   | 64:15:36  |
+| Walferdia & 53*         | 647 + 712   | 53:22:36  |
 

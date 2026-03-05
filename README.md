@@ -83,6 +83,7 @@ These are those who have Streamed and Completed. We know there are others who ha
 | ----------------- | ------ | --------- |
 | a.khapper^        | 237    | 31:47:42  |
 | Ginomachino       | 240    | 34:35:23  |
+| Abisxoxo*^        | 411    | 25:44:14  |
 | PingouinDuTurfu*^ | 587    | 45:57:05  |
 | itsbackx          | 775    | 47:51:00  |
 | Cell*             | 824    | 49:49:00  |
@@ -110,7 +111,6 @@ These are those who have Streamed and Completed. We know there are others who ha
 | Riirex            | 1448   | 60:51:15  |
 | iiALM7trf*        | 1685   | 94:38:07  | 
 | Lorian            | 1702   | 59:48:07  |
-| Abisxoxo*         | 1716   | 68:00:14  |
 | Rony              | 1834   | 85:00:00  |
 | TheFrigidWolf     | 2301   | 105:00:00 |
 | Walferdia         | 2624   | 104:40:00 | 

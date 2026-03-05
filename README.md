@@ -110,6 +110,7 @@ These are those who have Streamed and Completed. We know there are others who ha
 | Riirex            | 1448   | 60:51:15  |
 | iiALM7trf*        | 1685   | 94:38:07  | 
 | Lorian            | 1702   | 59:48:07  |
+| Abisxoxo*         | 1716   | 68:00:14  |
 | Rony              | 1834   | 85:00:00  |
 | TheFrigidWolf     | 2301   | 105:00:00 |
 | Walferdia         | 2624   | 104:40:00 | 

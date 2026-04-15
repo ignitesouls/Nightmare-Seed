@@ -91,6 +91,7 @@ These are those who have Streamed and Completed. We know there are others who ha
 | Cell*             | 824    | 49:49:00  |
 | Mannarage         | 839    | 50:24:41  |
 | Bender            | 841    | 71:20:13  |
+| Mast3rHax0r*      | 844    | 52:24:20  |
 | NPT               | 888    | 41:42:21  |
 | Skumnut           | 889    | 52:46:35  |
 | Elymis            | 908    | 38:00:00  |

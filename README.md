@@ -118,7 +118,8 @@ These are those who have Streamed and Completed. We know there are others who ha
 | Yaaz*             | 1741   | 76:44:39  |
 | Rony              | 1834   | 85:00:00  |
 | Repaz*            | 1967   | 96:00:00  |
-| Walferdia         | 2624   | 104:40:00 | 
+| Walferdia         | 2624   | 104:40:00 |
+| Hoschi*           | 2633   | 109:00:00 |
 
 ## Seamless COOP Completions
 | Players                 | Deaths      | ~Time     |

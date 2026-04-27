@@ -81,10 +81,10 @@ These are those who have Streamed and Completed. We know there are others who ha
 
 | Player            | Deaths | ~Time     |
 | ----------------- | ------ | --------- |
+| NekoCamiloV*^     | 223    | 29:29:04  |
 | a.khapper^        | 237    | 31:47:42  |
 | Ginomachino       | 240    | 34:35:23  |
 | Abisxoxo*^        | 411    | 25:44:14  |
-| NekoCamiloV*      | 521    | 50:33:52  |
 | PingouinDuTurfu*^ | 587    | 45:57:05  |
 | itsbackx          | 775    | 47:51:00  |
 | TheFrigidWolf*^   | 815    | 67:02:00  |

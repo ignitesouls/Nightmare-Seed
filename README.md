@@ -117,7 +117,7 @@ These are those who have Streamed and Completed. We know there are others who ha
 | Lorian            | 1702   | 59:48:07  |
 | Yaaz*             | 1741   | 76:44:39  |
 | Rony              | 1834   | 85:00:00  |
-| sheesh            | 1963   | 75:19:22  |
+| sheesh*           | 1963   | 75:19:22  |
 | Repaz*            | 1967   | 96:00:00  |
 | Walferdia         | 2624   | 104:40:00 |
 | Hoschi*           | 2633   | 109:00:00 |

@@ -103,6 +103,7 @@ These are those who have Streamed and Completed. We know there are others who ha
 | GingerGaming08    | 999    | 36:55:10  |
 | RomainJacques     | 1054   | 49:00:00  |
 | SurgeSouls*       | 1082   | 77:07:32  |
+| Cweaver*          | 1106   | 61:09:03  |
 | beagleplays       | 1117   | 60:43:00  |
 | RattyRy           | 1132   | 45:00:00  |
 | Youwy             | 1137   | 49:00:00  |

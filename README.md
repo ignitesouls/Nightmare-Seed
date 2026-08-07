@@ -121,6 +121,7 @@ These are those who have Streamed and Completed. We know there are others who ha
 | sheesh*           | 1963   | 75:19:22  |
 | Repaz*            | 1967   | 96:00:00  |
 | Sushi*            | 2368   | 90:41:34  |
+| AvegaX*           | 2555   | 114:00:00 |
 | Walferdia         | 2624   | 104:40:00 |
 | Hoschi*           | 2633   | 109:00:00 |
 

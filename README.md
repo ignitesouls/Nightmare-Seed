@@ -113,6 +113,7 @@ These are those who have Streamed and Completed. We know there are others who ha
 | HooZher           | 1253   | 45:45:16  |
 | Saidor            | 1279   | 53:49:06  |
 | Merl1n            | 1306   | 41:39:06  |
+| Vswed*            | 1333   | 115:52:02 |
 | Riirex            | 1448   | 60:51:15  |
 | Ashasin7          | 1457   | 76:50:00  |
 | BlyFy*            | 1531   | 86:06:00  |             

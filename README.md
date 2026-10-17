@@ -84,12 +84,12 @@ These are those who have Streamed and Completed. We know there are others who ha
 | NekoCamiloV*^     | 223    | 29:29:04  |
 | a.khapper^        | 237    | 31:47:42  |
 | Ginomachino       | 240    | 34:35:23  |
+| Cell*^            | 354    | 33:49:00  |
 | Abisxoxo*^        | 411    | 25:44:14  |
 | PingouinDuTurfu*^ | 587    | 45:57:05  |
 | itsbackx          | 775    | 47:51:00  |
 | SnoozyVibin*      | 792    | 64:57:46  |
 | TheFrigidWolf*^   | 815    | 67:02:00  |
-| Cell*             | 824    | 49:49:00  |
 | Mannarage         | 839    | 50:24:41  |
 | Bender            | 841    | 71:20:13  |
 | Mast3rHax0r*      | 844    | 52:24:20  |

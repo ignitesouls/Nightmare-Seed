@@ -106,6 +106,7 @@ These are those who have Streamed and Completed. We know there are others who ha
 | SurgeSouls*       | 1082   | 77:07:32  |
 | Cweaver*          | 1106   | 61:09:03  |
 | beagleplays       | 1117   | 60:43:00  |
+| Mucky*            | 1125   | 66:27:58  |
 | RattyRy           | 1132   | 45:00:00  |
 | Youwy             | 1137   | 49:00:00  |
 | Dinossindgeil*    | 1153   | 47:46:00  |

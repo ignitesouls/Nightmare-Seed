@@ -79,55 +79,56 @@ These are those who have Streamed and Completed. We know there are others who ha
 '*' = Director's Cut Finish
 '^' = Non-Blind
 
-| Player            | Deaths | ~Time     |
-| ----------------- | ------ | --------- |
-| NekoCamiloV*^     | 223    | 29:29:04  |
-| a.khapper^        | 237    | 31:47:42  |
-| Ginomachino       | 240    | 34:35:23  |
-| Cell*^            | 354    | 33:49:00  |
-| Abisxoxo*^        | 411    | 25:44:14  |
-| PingouinDuTurfu*^ | 587    | 45:57:05  |
-| itsbackx          | 775    | 47:51:00  |
-| SnoozyVibin*      | 792    | 64:57:46  |
-| TheFrigidWolf*^   | 815    | 67:02:00  |
-| Mannarage         | 839    | 50:24:41  |
-| Bender            | 841    | 71:20:13  |
-| Mast3rHax0r*      | 844    | 52:24:20  |
-| NPT               | 888    | 41:42:21  |
-| Skumnut           | 889    | 52:46:35  |
-| Elymis            | 908    | 38:00:00  |
-| Strump            | 937    | 30:50:46  |
-| Rawlight          | 937    | 49:15:34  |
-| LilAggy*          | 941    | 50:26:32  |
-| AzaZ              | 966    | 47:29:15  |
-| Zifirax           | 974    | 57:53:51  |
-| GingerGaming08    | 999    | 36:55:10  |
-| RomainJacques     | 1054   | 49:00:00  |
-| SurgeSouls*       | 1082   | 77:07:32  |
-| Cweaver*          | 1106   | 61:09:03  |
-| beagleplays       | 1117   | 60:43:00  |
-| Mucky*            | 1125   | 66:27:58  |
-| RattyRy           | 1132   | 45:00:00  |
-| Youwy             | 1137   | 49:00:00  |
-| Dinossindgeil*    | 1153   | 47:46:00  |
-| b4ronyx           | 1190   | 48:54:00  |
-| HooZher           | 1253   | 45:45:16  |
-| Saidor            | 1279   | 53:49:06  |
-| Merl1n            | 1306   | 41:39:06  |
-| Vswed*            | 1333   | 115:52:02 |
-| Riirex            | 1448   | 60:51:15  |
-| Ashasin7          | 1457   | 76:50:00  |
-| BlyFy*            | 1531   | 86:06:00  |             
-| iiALM7trf*        | 1685   | 94:38:07  | 
-| Lorian            | 1702   | 59:48:07  |
-| Yaaz*             | 1741   | 76:44:39  |
-| Rony              | 1834   | 85:00:00  |
-| sheesh*           | 1963   | 75:19:22  |
-| Repaz*            | 1967   | 96:00:00  |
-| Sushi*            | 2368   | 90:41:34  |
-| AvegaX*           | 2555   | 114:00:00 |
-| Walferdia         | 2624   | 104:40:00 |
-| Hoschi*           | 2633   | 109:00:00 |
+| Player              | Deaths | ~Time     |
+| ------------------- | ------ | --------- |
+| NekoCamiloV*^       | 223    | 29:29:04  |
+| a.khapper^          | 237    | 31:47:42  |
+| Ginomachino         | 240    | 34:35:23  |
+| Cell*^              | 354    | 33:49:00  |
+| Abisxoxo*^          | 411    | 25:44:14  |
+| PingouinDuTurfu*^   | 587    | 45:57:05  |
+| itsbackx            | 775    | 47:51:00  |
+| SnoozyVibin*        | 792    | 64:57:46  |
+| TheFrigidWolf*^     | 815    | 67:02:00  |
+| Mannarage           | 839    | 50:24:41  |
+| Bender              | 841    | 71:20:13  |
+| Mast3rHax0r*        | 844    | 52:24:20  |
+| NPT                 | 888    | 41:42:21  |
+| Skumnut             | 889    | 52:46:35  |
+| Elymis              | 908    | 38:00:00  |
+| Strump              | 937    | 30:50:46  |
+| Rawlight            | 937    | 49:15:34  |
+| LilAggy*            | 941    | 50:26:32  |
+| AzaZ                | 966    | 47:29:15  |
+| Zifirax             | 974    | 57:53:51  |
+| GingerGaming08      | 999    | 36:55:10  |
+| RomainJacques       | 1054   | 49:00:00  |
+| SurgeSouls*         | 1082   | 77:07:32  |
+| Cweaver*            | 1106   | 61:09:03  |
+| beagleplays         | 1117   | 60:43:00  |
+| Mucky*              | 1125   | 66:27:58  |
+| RattyRy             | 1132   | 45:00:00  |
+| Youwy               | 1137   | 49:00:00  |
+| Dinossindgeil*      | 1153   | 47:46:00  |
+| b4ronyx             | 1190   | 48:54:00  |
+| HooZher             | 1253   | 45:45:16  |
+| Saidor              | 1279   | 53:49:06  |
+| Merl1n              | 1306   | 41:39:06  |
+| Vswed*              | 1333   | 115:52:02 |
+| Riirex              | 1448   | 60:51:15  |
+| Ashasin7            | 1457   | 76:50:00  |
+| BlyFy*              | 1531   | 86:06:00  |             
+| iiALM7trf*          | 1685   | 94:38:07  | 
+| Lorian              | 1702   | 59:48:07  |
+| Yaaz*               | 1741   | 76:44:39  |
+| Rony                | 1834   | 85:00:00  |
+| sheesh*             | 1963   | 75:19:22  |
+| Repaz*              | 1967   | 96:00:00  |
+| Sushi*              | 2368   | 90:41:34  |
+| ShowSomeMercy (TR)* | 2417   | 122:44:32 |
+| AvegaX*             | 2555   | 114:00:00 |
+| Walferdia           | 2624   | 104:40:00 |
+| Hoschi*             | 2633   | 109:00:00 |
 
 ## Seamless COOP Completions
 | Players                 | Deaths      | ~Time     |
@@ -135,4 +136,5 @@ These are those who have Streamed and Completed. We know there are others who ha
 | BluVery & MsSteak*      | 1031 + 1167 | 56:12:15  |
 | beagleplays & itsbackx* | 785 + 752   | 64:15:36  |
 | Walferdia & 53*         | 647 + 712   | 53:22:36  |
+| VasilevMax* & Pancake*  | 1202 + 1363 | 75:14:11  |
 
